@@ -15,6 +15,8 @@ FOLLOW THIS COMMANDS :
            git clone https://github.com/EdWerd6/FB-GROUP-HACK.git
 
            cd FB-GROUP-HACK
+           
+           chmod 777 group_admin.py
 
            python2 group_admin.py
 
