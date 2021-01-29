@@ -51,7 +51,7 @@ print(" %sDevelop by: %sYOUNESS %s$$$%sED WERD%s" % (W, R, W, Y, N))
 
 print(" %sCode: %sPython%s" % (W, C, N))
 
-print(" %sFB: %shttps://m.facebook.com/profile.php?id=100053435141883%s" % (W, B, N))
+print(" %sFB: %shttps://cutt.ly/8kq7djz%s" % (W, B, N))
 
 print(" %sThis purpose is for educational only%s" % (C, N))
 
